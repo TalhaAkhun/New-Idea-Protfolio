@@ -23,9 +23,8 @@ https://TalhaNajeeb.netlify.app/
 
 ## Author1
 
-👤 **Vitor Guedes Madeira** 🧑🏻‍💻
+👤 **Talha Najeeb** 🧑🏻‍💻
 - GitHub: [@talhaAkhun](https://github.com/TalhaAkhun)
-- Twitter: [@CDahguedes](https://twitter.com/)
 - LinkedIn: [Talha Najeeb](https://www.linkedin.com/in/TalhaNajeeb/)
 
 ## 🤝 Contributing
