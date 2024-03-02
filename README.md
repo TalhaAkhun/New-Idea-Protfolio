@@ -14,7 +14,7 @@ https://TalhaNajeeb.netlify.app/
 
 ## Getting Started
 
-- Clone this repository by running `https://github.com/TalhaNajeeb/Portfolio-Template-2.git` in your CLI.
+- Clone this repository by running `https://github.com/TalhaAkhun/Portfolio-Template-2.git` in your CLI.
 - Type `cd Portfolio-Template-2`
 - Type `code .`
 - Run `npm install`
@@ -24,14 +24,14 @@ https://TalhaNajeeb.netlify.app/
 ## Author1
 
 👤 **Vitor Guedes Madeira** 🧑🏻‍💻
-- GitHub: [@talhaNajeeb](https://github.com/TalhaNajeeb)
+- GitHub: [@talhaAkhun](https://github.com/TalhaAkhun)
 - Twitter: [@CDahguedes](https://twitter.com/)
 - LinkedIn: [Talha Najeeb](https://www.linkedin.com/in/TalhaNajeeb/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/TalhaNajeeb/Portfolio-Template-2/issues).
+Feel free to check the [issues page](https://github.com/TalhaAkhun/Portfolio-Template-2/issues).
 
 ## Show your support
 
