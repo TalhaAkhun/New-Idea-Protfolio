@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { FaEnvelope, FaLinkedin, FaPaperclip, FaGithub, FaMedium } from "react-icons/fa";
-import resume from '../../assets/files/Profile.pdf';
 import './Headline.css';
 
 const Headline = () => {
@@ -14,15 +13,14 @@ const Headline = () => {
       <section id="headline" className="headline-section-container">
         <div className="headline-information" data-aos="fade-right">
           <ul className="headline-icons">
-            <li><a href="https://medium.com/@TalhaNajeeb/you-teach-you-learn-6f5ac50aae65" target="_blank" rel="noreferrer"><FaMedium /></a></li>
             <li><a href="https://github.com/TalhaAkhun" target="_blank" rel="noreferrer"><FaGithub /></a></li>
             <li><a href="https://www.linkedin.com/in/talha-akhun3/" target="_blank" rel="noreferrer"><FaLinkedin /></a></li>
           </ul>
           <div className="headline-texts">
             <p>Hi, my name is</p>
-            <p>Vitor G. Madeira</p>
+            <p>Talha Najeeb Akhun</p>
             <p>I build things for the web</p>
-            <p>I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m looking for a full-stack position. Feel free to check my resume. <a href={resume} download="" rel="noreferrer">Download resume</a></p>
+          <p>I’m a Web Developing specializing in building (and occasionally designing) exceptional digital experiences. Currently.</p>
             <button onClick={toggleClass}>Contact me</button>
           </div>
         </div>
