@@ -81,13 +81,6 @@ const Testimonials = () => {
       testimonial: "Vitor is an amazing guy to work with! He is very positive and assertive in what he does. I always had a great experience when I had to work with him. When he was around you knew you could trust that things were going to get done. AMAZING GUY! Would love to work with him in the future no doubt about it!",
       image: hansPicture
     },
-    {
-      id: 9,
-      name: "Shahira Sadat",
-      role: "Full Stack Developer",
-      testimonial: "Its a pleasure to know Vitor. Since we were in the same teams for several times, I found Vitor a logical and hardworking person with high technical skills. It will be a pleasure to work with him again.",
-      image: shahiraPicture
-    }
   ]
 
     return (
